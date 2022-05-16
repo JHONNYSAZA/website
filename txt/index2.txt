@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon/1_ICON.svg">
+    <title>TRIBUTO COLDPLAY</title>
+    <!--JHON EDUAR ISAZA-->
+    <!--ING MULTIMEDIA-->
+    <!--PROGRAMACION WEB-->
+    <!--index Album-->
+</head>
+<body>
+      <header> 
+        <div>
+            <a href="index.html">
+            <img src="img/1_PLANET.png" alt="IMG PLANETA" width="10%">
+            </a>
+            <h1>COLDPLAY</h1> 
+            <h2>tributo </h2>        
+        </div> 
+        </header>
+        <main>
+            <div class="barra">
+                <nav>
+                <ul>
+                    <li><a href="index2.html">
+                        <img src="icon/2_ICON.svg" alt="ALBUM" width="10%">
+                        </a></li>
+                    <li><a href="index3.html">
+                        <img src="icon/3_ICON.svg" alt="IMAGENES Y VIDEOS" width="10%">
+                        </a></li>
+                    <li><a href="index4.html">
+                        <img src="icon/4_ICON.svg" alt="INTEGRANTES" width="10%">
+                        </a></li> 
+                    <li><a href="index5.html">
+                        <img src="icon/5_ICON.svg" alt="CONTACTO" width="10%">
+                        </a></li> 
+                </ul>
+                </nav>
+            </div>
+           <section>
+
+               <div>
+                   <h2>ALBUM</h2>
+                   <div class="player__album">
+                    <a href="https://youtu.be/yWeuUwpEQfs" target="_blank">
+                        <img src="img/2_ALBUM_2_500X500.jpg" alt="PARACHUTES" width="10%" > 
+                        </a> 
+                    <p> 
+                        <h3>PARACHUTES</h3>
+                        <h4>2000-2002</h4>
+                        <pre>
+                        ALBUM "PARACHUTES" TOTAL MIN_1:03:54
+                         
+                        1. DON'T PANIC MIN_2:17 
+                        2. SHIVER MIN_5:00 
+                        3. SPIES MIN_5:19 
+                        4. SPARKS MIN_3:47 
+                        5. YELLOW MIN_4:29 
+                        6. TROUBLE MIN_4:31 
+                        7. PARACHUTES MIN_0:46 
+                        8. HIGH SPEED MIN_4:14 
+                        9. WE NEVER CHANGE MIN_4:09 
+                        10. EVERTHING'S NOT LOST MIN_7:16 
+                        </pre>
+                        <hr>
+                    </p>  
+                    </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/GOrADSEKb_k"target="_blank">
+                            <img src="img/2_ALBUM_3_500X500.jpg" alt="A RUSH OF BLOOD TO THE HEAD" width="10%">
+                            </a>
+                        <p> 
+                            <h3>A RUSH OF BLOOD TO THE HEAD</h3>
+                            <h4>2002-2005</h4>
+                        <pre>
+                        ALBUM "A RUSH OF BLOOD TO THE HEAD" TOTAL MIN_1:06:51 
+                           
+                        1. POLITIK MIN_5:19 
+                        2. IN MY PLACE MIN_3:49
+                        3. GOD PUT A SMILE UPON YOUR FACE MIN_4:57
+                        4. THE SCIENTIST MIN_5:09 
+                        5. CLOCKS MIN_5:07 
+                        6. DAYLIGHT MIN_5:28 
+                        7. GREEN EYES MIN_3:43 
+                        8. WARNING SIGN MIN_5:31 
+                        9. A WHISPER MIN_3:58 
+                        10. A RUSH OF BLOOD TO THE HEAD MIN_5:51 
+                        11. AMSTERDAM MIN_5:19   
+                        </pre>
+                        <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/j37GED-AR3M"target="_blank">
+                            <img src="img/2_ALBUM_4_500X500.jpg" alt="X&Y" width="10%">
+                            </a>
+                        <p> 
+                            <h3>X&Y</h3>
+                            <h4>2005-2008</h4>
+                            <pre>
+                        ALBUM "X&Y" TOTAL MIN_51:27 
+                        
+                        1. SQUARE ONE MIN_4:47 
+                        2. WHAT IF MIN_4:57 
+                        3. WHITE SHADOWS MIN_5:28 
+                        4. FIX YOU MIN MIN_4:55 
+                        5. TALK MIN_5:11 
+                        6. X&Y MIN_4:34 
+                        7. SPEED OF SOUND MIN_4:27 
+                        8. A MESSAGE MIN_4:45 
+                        9. LOW MIN_5:32 
+                        10. THE HARDEST PART MIN_4:25 
+                        11. SWALLOWED IN THE SEA MIN_3:59 
+                        12. TWISTED LOGIC MIN_5:02 
+                        13. TIL KINGDOM COME  MIN_4:12 
+                        </pre>
+                        <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/sPD59NTahc0"target="_blank">
+                            <img src="img/2_ALBUM_5_500X500.jpg" alt="VIVA LA VIDA" width="10%">
+                            </a>
+                        <p> 
+                            <h3>VIVA LA VIDA</h3>
+                            <h4>2008-2011</h4>
+                        <pre>
+                        ALBUM "VIVA LA VIDA" TOTAL MIN_45:42
+                           
+                        1. LIFE IN TECHNICOLOR MIN_2:29 
+                        2. CEMETERIES OF LONDON MIN_3:21 
+                        3. LOST! MIN_3:56 
+                        4. 42 MIN 3:58 
+                        5. LOVERS IN JAPAN MIN_6:51 
+                        6. YES MIN_7:07 
+                        7. VIVA LA VIDA MIN_4:03 
+                        8. VIOLET HIL MIN_3:43 
+                        9. STRAWBERRY SWING MIN_4:10 
+                        10. DEATH AND ALL HIS FRIENDS MIN_6:19
+                        </pre> 
+                        <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/YUy4awDXeSE"target="_blank">
+                            <img src="img/2_ALBUM_6_500X500.jpg" alt="MYLO XYLOTO" width="10%">
+                            </a>
+                        <p> 
+                            <h3>MYLO XYLOTO</h3>
+                            <h4>2011-2014</h4>
+                        <pre>
+                        ALBUM "MYLO XYLOTO" TOTAL MIN_45:00 
+                         
+                        1. MYLO XYLOTO MIN_0:43 
+                        2. HURTS LIKE HEAVEN MIN_4:02 
+                        3. PARADISE MIN_4:38 
+                        4. CHARLIE BROWN MIN_4:45 
+                        5. US AGAINST THE WORLD MIN_4:00 
+                        6. M.M.I.X MIN_0:49 
+                        7. EVERY TEARDROP IS A WATERFALL MIN_4:01 
+                        8. MAJOR MINUS MIN_3:30 
+                        9. U.F.O. MIN_2:18 
+                        10. PRINCESS OF CHINA MIN_3:59 
+                        11. UP IN FLAMSE MIN_3:13 
+                        12. A HOPEFUL TRANSMISSION MIN_0:33 
+                        13. DON'T LET IT BREAK YOUR HEART MIN_3:54 
+                        14. UP WITH THE BIRDS MIN_3:48 
+                        </pre>
+                        <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/l2UJmdM9Omw"target="_blank">
+                            <img src="img/2_ALBUM_7_500X500.jpg" alt="GHOST STORIE" width="10%">
+                            </a>
+                        <p> 
+                            <h3>GHOST STORIE</h3>
+                            <h4>2014-2015</h4>
+                            <pre>
+                        ALBUM "GHOST STORIES" TOTAL MIN_53:08
+                         
+                        1. ALWAYS IN MY HEAD MIN_3:37
+                        2. MAGIC MIN_4:45
+                        3. INK MIN_3:48
+                        4. TRUE LOVE MIN_4:06
+                        5. MIDNIGHT MIN_4:55
+                        6. ANOTHER'S ARMS MIN_3:55
+                        7. OCEANS MIN_5:22
+                        8. A SKY FULL OF STARS MIN_4:28
+                        9. O MIN_5:24
+                         </pre>
+                         <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/rwdwb5Fkgso"target="_blank">
+                            <img src="img/2_ALBUM_8_500X500.jpg" alt="A HEAD FULL OF DREAMS" width="10%">
+                            </a>
+                        <p> 
+                            <h3>A HEAD FULL OF DREAMS</h3>
+                            <h4>2015-2019</h4>
+                            <pre>
+                        ALBUM "A HEAD FULL OF DREAMS" TOTAL MIN_49:14
+
+                        1. A HEAD FULL OF DREAMS MIN_3:43
+                        2. BIRDS MIN_3:49
+                        3. HYMN FOR THE WEEKEND MIN_4:18
+                        4. EVERGLOW MIN_4:42
+                        5. ADVENTURE OF A LIFETIME MIN_4:24
+                        6. FUN MIN_4:27
+                        7. KALEIDOSCOPE MIN_1:51
+                        8. ARMY OF ONE MIN_6:16
+                        9. AMAZING DAY MIN_4:31
+                        10. COLOUR SPECTRUM MIN_1:00
+                        11. UP&UP MIN_6:45
+                        </pre>
+                        <hr>
+                        </p>  
+                        </div>
+                    <div class="player__album">
+                        <a href="https://youtu.be/H97NQznnvZo"target="_blank">
+                            <img src="img/2_ALBUM_9_500X500.jpg" alt="EVERYDAY LIFE" width="10%">
+                            </a>
+                            
+                        <p> 
+                            <h3>EVERYDAY LIFE</h3>
+                            <h4>2019-2020</h4>
+                           <pre>
+                        ALBUM "EVERYDAY LIFE" TOTAL MIN_ 40:00
+
+                        1. SUNRISE MIN_2:31
+                        2. CHURCH MIN_3:50
+                        3. TROUBLE IN TOWN MIN_4:39
+                        4. BROKEN MIN_2:30
+                        5. DADDY MIN_4:58
+                        6. WOTW/POTP MIN_1:17
+                        7. ARABESQUE MIN_5:40
+                        8. WHEN I NEED A FRIEND MIN_2:35
+                        </pre>
+                        </p>   
+                        </div>
+               </div>
+               
+           </section>
+           <hr>
+           <footer>
+            <div>
+                <img src="icon/TOCADISCO.ico" alt="tocadisco" width="10%">
+                <audio controls autoplay>
+                    <source src="sound/A Head Full of Dreams.mp3" type="audio/mpeg">
+                    tu navegador no es compatible con el Audio
+                </audio>
+            </div>
+        <div>
+         <a href="https://www.youtube.com/c/coldplay/featured" target="_blank">
+             <img src="icon/6_ICON.svg" alt="youtube" width="10%">
+         </a>  
+         <a href="https://www.instagram.com/coldplay/" target="_blank">
+            <img src="icon/7_ICON.svg" alt="instagram" width="10%">
+         </a> 
+         <a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU" target="_blank">
+            <img src="icon/8_ICON.svg" alt="spotify" width="10%">
+         </a>
+         </div>
+         <div>
+            <h3> <p> ING JHON EDUAR ISAZA CARDONA </p>
+            <p> Ingenieria Multimedia </p>
+            <p> Programacion Web </p>
+            <p> Todos los derechos son reservados a la banda ColdPlay</p> </h3>
+            <a href="https://www.coldplay.com/" target="_blank"> PAGINA OFICIAL </a>
+        </div>
+         </footer>
+</body>
+</html>

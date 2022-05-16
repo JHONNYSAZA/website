@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon/1_ICON.svg">
+    <title>TRIBUTO COLDPLAY</title>
+    <!--JHON EDUAR ISAZA-->
+    <!--ING MULTIMEDIA-->
+    <!--PROGRAMACION WEB-->
+    <!--index Miembros-->
+  
+</head>
+
+<body>
+    <header> 
+    <div>
+        <a href="index.html">
+        <img src="img/1_PLANET.png" alt="IMG PLANETA" width="10%">
+        </a>
+        <h1>COLDPLAY</h1> 
+        <h2>tributo </h2>        
+    </div> 
+    </header>
+    <main>
+        <div class="barra">
+            <nav>
+            <ul>
+                <li><a href="index2.html">
+                    <img src="icon/2_ICON.svg" alt="ALBUM" width="10%">
+                    </a></li>
+                <li><a href="index3.html">
+                    <img src="icon/3_ICON.svg" alt="IMAGENES Y VIDEOS" width="10%">
+                    </a></li>
+                <li><a href="index4.html">
+                    <img src="icon/4_ICON.svg" alt="INTEGRANTES" width="10%">
+                    </a></li> 
+                <li><a href="index5.html">
+                    <img src="icon/5_ICON.svg" alt="CONTACTO" width="10%">
+                    </a></li> 
+            </ul>
+            </nav>
+        </div>
+       <section>
+        <div>
+            <h2>MIEMBROS</h2>
+               <img src="img/4_PIC_1_1024x1024.jpg"alt="CHRIS MARTIN" width="50%">
+               <h3>CHRIS MARTIN VOZ - PIANO</h3> <pre>
+               <P>Nacido el 2 de Marzo de 1977, Christopher Anthony John Chris Martin
+                es un cantante, músico, compositor, productor discográfico inglés; 
+                cofundador y líder de la banda británica Coldplay. Es conocido además
+                por su activismo en campañas a favor del comercio justo y por estar en 
+                contra del hambre en el mundo. </P></pre>
+               <img src="img/4_PIC_2_1024x1024.jpg"alt="GUY BERRYMAN" width="50%">
+               <h3>GUY BERRYMAN - BASS</h3> <pre>
+               <P>Nacido el 12 de abril de 1978, Guy Rupert Berryman es un músico, 
+                compositor, productor y empresario escocés mejor conocido como el 
+                bajista de la banda de rock Coldplay y el supergrupo electrónico 
+                Apparatjik. Es el fundador y diseñador de la marca de ropa masculina 
+                Applied Art Forms.</P></pre>
+               <img src="img/4_PIC_3_1024x768.jpg"alt="JON BUCKLAND" width="50%">
+               <h3>JON BUCKLAND - GUITAR</h3> <pre>
+               <P>Nacido el 11 de septiembre de 1977, jonathan Mark Buckland es el
+                principal guitarrista y cofundador de la banda, Comenzó a tocar la 
+                guitarra a la edad de once años, después de haber sido motivado por
+                escuchar a Ride, George Harrison, U2, My Bloody Valentine, Sonic Youth,
+                Jimi Hendrix y The Stone Roses. </P> </pre>
+               <img src="img/4_PIC_4_1024x768.jpg" alt="WILL CHAMPION" width="50%">
+               <h3>WILL CHAMPION - DRUMS</h3> <pre>
+               <P>Nacido el 31 de julio de 1978, william Elan Champion es un musico y 
+                compositor britanico, es el baterista y voz secundaria de la agrupación, 
+                de pequeño, a uno de sus vecinos le regalaron una batería y así tuvo su 
+                primera experiencia tocando, hasta que le prestó más atención a otros 
+                instrumentos. A los 8 años de edad aprendió a tocar piano y violín, y la
+                guitarra y el bajo a sus 12 años.</P></pre>
+             
+           </div>
+       </section>
+       <footer>
+        <div>
+            <img src="icon/TOCADISCO.ico" alt="tocadisco" width="10%">
+            <audio controls autoplay>
+                <source src="sound/Clocks.mp3" type="audio/mpeg">
+                tu navegador no es compatible con el Audio
+            </audio>
+        </div>
+    <div>
+     <a href="https://www.youtube.com/c/coldplay/featured" target="_blank">
+         <img src="icon/6_ICON.svg" alt="youtube" width="10%">
+     </a>  
+     <a href="https://www.instagram.com/coldplay/" target="_blank">
+        <img src="icon/7_ICON.svg" alt="instagram" width="10%">
+     </a> 
+     <a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU" target="_blank">
+        <img src="icon/8_ICON.svg" alt="spotify" width="10%">
+     </a>
+     </div>
+     <div>
+        <h3> <p> ING JHON EDUAR ISAZA CARDONA </p>
+        <p> Ingenieria Multimedia </p>
+        <p> Programacion Web </p>
+        <p> Todos los derechos son reservados a la banda ColdPlay</p> </h3>
+        <a href="https://www.coldplay.com/" target="_blank"> PAGINA OFICIAL </a>
+    </div>
+     </footer>
+</body>
+</html>

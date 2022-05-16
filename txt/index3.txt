@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon/1_ICON.svg">
+    <title>TRIBUTO COLDPLAY</title>
+    <!--JHON EDUAR ISAZA-->
+    <!--ING MULTIMEDIA-->
+    <!--PROGRAMACION WEB-->
+    <!--index Imagen-->
+  
+</head>
+
+<body>
+    <header> 
+    <div>
+        <a href="index.html">
+        <img src="img/1_PLANET.png" alt="IMG PLANETA" width="10%">
+        </a>
+        <h1>COLDPLAY</h1> 
+        <h2>tributo </h2>        
+    </div> 
+    </header>
+    <main>
+        <div class="barra">
+            <nav>
+            <ul>
+                <li><a href="index2.html">
+                    <img src="icon/2_ICON.svg" alt="ALBUM" width="10%">
+                    </a></li>
+                <li><a href="">
+                    <img src="icon/3_ICON.svg" alt="IMAGENES Y VIDEOS" width="10%">
+                    </a></li>
+                <li><a href="index4.html">
+                    <img src="icon/4_ICON.svg" alt="INTEGRANTES" width="10%">
+                    </a></li> 
+                <li><a href="index5.html">
+                    <img src="icon/5_ICON.svg" alt="CONTACTO" width="10%">
+                    </a></li> 
+            </ul>
+            </nav>
+        </div>
+       <section>
+           <div>
+            <h2>IMAGENES</h2>
+               <img src="img/3_PIC_1_1024x538.png">
+               <img src="img/3_PIC_2_1024x538.png">
+               <img src="img/3_PIC_3_1024x768.jpg">
+               <img src="img/3_PIC_4_1024x538.jpg">
+               <img src="img/3_PIC_5_346x346.jpg">
+               <img src="img/3_PIC_6_1024x538.jpg">
+               <img src="img/3_PIC_7_1024x1024.jpg">
+               <img src="img/3_PIC_8_1024x684.jpg">
+               <img src="img/3_PIC_9_1024x768.jpg">
+           </div>
+       </section>
+       <hr>
+       <section>
+           <div>
+               <h2>VIDEOS</h2>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/abbSfBu2Vwc?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/_MOmdDLQVn4?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           </div>
+       </section>
+       <hr>
+       <footer>
+        <div>
+            <img src="icon/TOCADISCO.ico" alt="tocadisco" width="10%">
+            <audio controls autoplay>
+                <source src="sound/A Sky Full Of Stars.mp3" type="audio/mpeg">
+                tu navegador no es compatible con el Audio
+            </audio>
+        </div>
+    <div>
+     <a href="https://www.youtube.com/c/coldplay/featured" target="_blank">
+         <img src="icon/6_ICON.svg" alt="youtube" width="10%">
+     </a>  
+     <a href="https://www.instagram.com/coldplay/" target="_blank">
+        <img src="icon/7_ICON.svg" alt="instagram" width="10%">
+     </a> 
+     <a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU" target="_blank">
+        <img src="icon/8_ICON.svg" alt="spotify" width="10%">
+     </a>
+     </div>
+     <div>
+        <h3> <p> ING JHON EDUAR ISAZA CARDONA </p>
+        <p> Ingenieria Multimedia </p>
+        <p> Programacion Web </p>
+        <p> Todos los derechos son reservados a la banda ColdPlay</p> </h3>
+        <a href="https://www.coldplay.com/" target="_blank"> PAGINA OFICIAL </a>
+    </div>
+     </footer>
+</body>
+</html>
